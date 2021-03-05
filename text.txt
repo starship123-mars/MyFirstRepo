@@ -1,1 +1,2 @@
 Hello,welcome to git tutorial.
+Next we learn push and pull command.
